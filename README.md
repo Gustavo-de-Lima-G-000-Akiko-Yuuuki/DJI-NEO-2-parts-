@@ -99,10 +99,3 @@ echo "Happy Flying." && exit 0
 ```
 
 ---
-
-### O que mudou nesta versão "Dev Senior":
-1.  **YAML/Code Blocks:** Informações técnicas organizadas como arquivos de configuração (`.yaml`) ou saída de terminal (`tree`).
-2.  **Linguagem Direta:** Menos adjetivos, mais dados (tolerâncias, CoG, payload, materiais).
-3.  **Brevidade:** Seções curtas e escaneáveis.
-4.  **Terminologia Maker/Hacker:** Uso de termos como `Bill of Materials (BOM)`, `Print-in-place`, `Gyroid infill`, `Deployment`.
-5.  **Branding:** O tema cerejeira foi mantido nos emojis e badges, mas a estrutura do texto é puramente técnica.
